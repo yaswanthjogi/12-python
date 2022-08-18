@@ -1,0 +1,15 @@
+f2=open("Create_File.py",'r')
+# print(f2.read())
+# print(f2.read(2)) 
+# print(f2.read(2)) 
+# print(f2.read(3))
+# print(f2.readline())
+# print(f2.readline())
+# print(f2.readline())
+# print(f2.readlines())
+# d=f2.readlines()
+# print(type(d))
+
+# f3=open('Josh10Am.txt','r')
+# for x in f3:
+#     print(x)
